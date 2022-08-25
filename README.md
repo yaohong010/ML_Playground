@@ -1,3 +1,3 @@
 # ML_Playground
 
-This is my supercool playground to experiement Machine Learning Algorithms.
+This is my super cool playground to experiement Machine Learning Algorithms.
